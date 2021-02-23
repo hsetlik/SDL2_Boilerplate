@@ -66,6 +66,6 @@ void AppWindow::clean()
     SDL_DestroyRenderer(renderer);
     IMG_Quit();
     SDL_Quit();
-    printf("Game Cleaned\n");
+    printf("App Cleaned\n");
 }
 
