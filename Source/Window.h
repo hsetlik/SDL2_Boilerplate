@@ -12,6 +12,9 @@
 #include <SDL2/SDL_image.h>
 #include <stdio.h>
 #include <iostream>
+//adjust window size here
+const int wWidth = 1920;
+const int wHeight = 1080;
 
 class AppWindow
 {

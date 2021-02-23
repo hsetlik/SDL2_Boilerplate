@@ -3,11 +3,9 @@
 //  SDL2_Boilerplate
 //
 //  Created by Hayden Setlik on 2/23/21.
-//
+//  Probably don't change stuff in here. Xcode and SDL2 have a very strained relationship.
 #include "Window.h"
 AppWindow* window = nullptr;
-const int wWidth = 1920;
-const int wHeight = 1080;
 
 int main(int argc, const char * argv[])
 {
